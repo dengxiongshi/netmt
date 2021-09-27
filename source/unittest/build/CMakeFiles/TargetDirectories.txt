@@ -1,0 +1,4 @@
+/mnt/e/Cwork/source/unittest/build/CMakeFiles/rebuild_cache.dir
+/mnt/e/Cwork/source/unittest/build/CMakeFiles/edit_cache.dir
+/mnt/e/Cwork/source/unittest/build/CMakeFiles/test.dir
+/mnt/e/Cwork/source/unittest/build/CMakeFiles/ping.dir
